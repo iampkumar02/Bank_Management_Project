@@ -1,14 +1,16 @@
 # BANK_MANAGEMENT
 ## Bank Management mini-project
 
-### ``Language Used``
+### Language Used
 
 <img src="https://user-images.githubusercontent.com/85553100/127306561-d284bdce-e030-4b0e-9157-d89aaceb7757.png" alt="c++" width="110" height="40"><BR>
-
-
+ 
 ---
-
-
+### Project_Report
+ 
+ `https://docs.google.com/document/d/1W_TgWJpn-xDFn8qdnK_cR-wSuDj9ZJPG0qNjiknUl28/edit?usp=sharing`
+ 
+ ---
 ### MINI-PROJECT ON BANK MANAGEMENT
  *	This is a project for BANK database management in which all the data are stored in an array.
  *	We have a class named as Bank.
