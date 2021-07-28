@@ -1,7 +1,7 @@
 # BANK_MANAGEMENT
 ## Bank Management mini-project
 
-### ``Languages Used``
+### ``Language Used``
 
 <img src="https://user-images.githubusercontent.com/85553100/127306561-d284bdce-e030-4b0e-9157-d89aaceb7757.png" alt="c++" width="110" height="40"><BR>
 
